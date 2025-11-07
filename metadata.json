@@ -1,0 +1,7 @@
+{
+  "name": "Visual Assistant AI",
+  "description": "An AI-powered assistant for the visually impaired. It uses the device's camera to see the world, describes it out loud, and helps users navigate their surroundings safely and with more independence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
